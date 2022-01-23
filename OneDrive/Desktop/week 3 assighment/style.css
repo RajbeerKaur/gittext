@@ -1,0 +1,40 @@
+form{
+    margin: auto;
+    width: 400px;  
+  }
+  
+  td{
+    padding-bottom: 1em;
+  }
+  
+  
+  .box {
+     
+    }
+  
+    div {
+      margin-top: 0px;
+    }
+  
+    body {
+      font-size: 15px;font-family:monospace;
+      background-color: rgb(255, 102, 0);
+      color: white;
+    }
+  
+    hr {
+      margin-bottom: 20px;
+      margin-top: 20px;
+      padding-top: 2px;
+    }
+  
+  
+    .block {
+      display: block;
+      width: 100%;
+      border: none;
+      color: rgb(255, 72, 0);
+      padding: 12px 40px;
+      cursor: pointer;
+      text-align: center;
+    }
